@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/user/CLionProjects/shellSort/ShellSort.cpp
+iostream
+-
+fstream
+-
+ShellSort.h
+/home/user/CLionProjects/shellSort/ShellSort.h
+
+/home/user/CLionProjects/shellSort/ShellSort.h
+vector
+-
+string
+-
+
+/home/user/CLionProjects/shellSort/main.cpp
+iostream
+-
+vector
+-
+ShellSort.h
+/home/user/CLionProjects/shellSort/ShellSort.h
+
